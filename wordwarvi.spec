@@ -1,12 +1,12 @@
 Summary:	Shoot 'em up '80s style arcade game
 Summary(pl.UTF-8):	Strzelanka w stylu lat 80-tych
 Name:		wordwarvi
-Version:	0.25
+Version:	0.26
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications/Games
 Source0:	http://dl.sourceforge.net/wordwarvi/%{name}-%{version}.tar.gz
-# Source0-md5:	f327d32fca05a034ac3102e833ed545b
+# Source0-md5:	1c12a53839baf9c35c8671aa228043ab
 URL:		http://wordwarvi.sourceforge.net/
 BuildRequires:	gtk+2-devel
 BuildRequires:	libvorbis-devel
